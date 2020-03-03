@@ -38,23 +38,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Jetson_CAN.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GFCKEZZF
-
-[Document2]
 DocumentPath=ESC_dev_board.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,7 +54,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document3]
+[Document2]
 DocumentPath=ESC_dev_board.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +71,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LTZIYWPJ
 
-[Document4]
+[Document3]
 DocumentPath=ESC_dev_board.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NQTJYDXN
 
-[Document5]
+[Document4]
 DocumentPath=ESC_dev_board.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -123,11 +106,95 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for ESC_dev_board\BOM\Bill of Materials-ESC_dev_board.xlsx
+DocumentPath=BOM\Bill of Materials-ESC_dev_board.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=Project Outputs for ESC_dev_board\BOM\Bill of Materials-ESC_dev_board.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=Project Outputs for ESC_dev_board\Design Rule Check - ESC_dev_board.html
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=.\Fabrication\ESC_dev_board.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=.\Fabrication\ESC_dev_board.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=.\Fabrication\ESC_dev_board.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=.\Fabrication\ESC_dev_board.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=.\Fabrication\ESC_dev_board.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=.\Fabrication\ESC_dev_board.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=.\Fabrication\ESC_dev_board.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=.\Fabrication\ESC_dev_board.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=.\Fabrication\ESC_dev_board.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=.\Fabrication\ESC_dev_board.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=.\Fabrication\ESC_dev_board.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=.\Fabrication\ESC_dev_board.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=.\Fabrication\ESC_dev_board.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=.\Fabrication\ESC_dev_board.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=.\Fabrication\ESC_dev_board.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=.\Fabrication\ESC_dev_board.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=.\Fabrication\ESC_dev_board.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=.\Fabrication\ESC_dev_board.REP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=.\Fabrication\ESC_dev_board.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=.\Fabrication\ESC_dev_board.TXT
 DItemRevisionGUID=
 
 [Configuration1]
