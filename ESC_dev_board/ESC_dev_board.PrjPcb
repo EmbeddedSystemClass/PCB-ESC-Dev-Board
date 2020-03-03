@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for ESC_dev_board
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -118,83 +118,83 @@ DocumentPath=Project Outputs for ESC_dev_board\Design Rule Check - ESC_dev_board
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=.\Fabrication\ESC_dev_board.DRR
+DocumentPath=Fabrication\ESC_dev_board.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=.\Fabrication\ESC_dev_board.EXTREP
+DocumentPath=Fabrication\ESC_dev_board.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=.\Fabrication\ESC_dev_board.GBL
+DocumentPath=Fabrication\ESC_dev_board.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=.\Fabrication\ESC_dev_board.GBO
+DocumentPath=Fabrication\ESC_dev_board.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=.\Fabrication\ESC_dev_board.GBP
+DocumentPath=Fabrication\ESC_dev_board.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=.\Fabrication\ESC_dev_board.GBS
+DocumentPath=Fabrication\ESC_dev_board.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=.\Fabrication\ESC_dev_board.GKO
+DocumentPath=Fabrication\ESC_dev_board.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=.\Fabrication\ESC_dev_board.GM1
+DocumentPath=Fabrication\ESC_dev_board.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=.\Fabrication\ESC_dev_board.GM13
+DocumentPath=Fabrication\ESC_dev_board.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=.\Fabrication\ESC_dev_board.GM15
+DocumentPath=Fabrication\ESC_dev_board.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=.\Fabrication\ESC_dev_board.GPB
+DocumentPath=Fabrication\ESC_dev_board.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=.\Fabrication\ESC_dev_board.GPT
+DocumentPath=Fabrication\ESC_dev_board.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=.\Fabrication\ESC_dev_board.GTL
+DocumentPath=Fabrication\ESC_dev_board.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=.\Fabrication\ESC_dev_board.GTO
+DocumentPath=Fabrication\ESC_dev_board.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=.\Fabrication\ESC_dev_board.GTP
+DocumentPath=Fabrication\ESC_dev_board.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=.\Fabrication\ESC_dev_board.GTS
+DocumentPath=Fabrication\ESC_dev_board.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=.\Fabrication\ESC_dev_board.LDP
+DocumentPath=Fabrication\ESC_dev_board.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=.\Fabrication\ESC_dev_board.REP
+DocumentPath=Fabrication\ESC_dev_board.REP
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=.\Fabrication\ESC_dev_board.RUL
+DocumentPath=Fabrication\ESC_dev_board.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=.\Fabrication\ESC_dev_board.TXT
+DocumentPath=Fabrication\ESC_dev_board.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -244,7 +244,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for ESC_dev_board
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
